@@ -1,0 +1,38 @@
+{
+  "name": "Tahsin Online",
+  "short_name": "Tahsin Online",
+  "start_url": "https://tajwiidulquran.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Belajar Tajwid.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s48/Favicon%2BTahsin.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s72/Favicon%2BTahsin.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s96/Favicon%2BTahsin.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s144/Favicon%2BTahsin.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s168/Favicon%2BTahsin.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s192/Favicon%2BTahsin.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-N9Mvsbo02R4/XSZ4OuHALyI/AAAAAAAADWI/e8Pg9FuiuIow2PTVI4d-ddIQiZlW83LSwCLcBGAs/s512/Favicon%2BTahsin.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
